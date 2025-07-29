@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const tile = document.querySelector(".parallax-tile");
 
   const maxRotation = 30;
-  let easingFactor = 0.05;
+  let easingFactor = 0.03;
 
   let currentRotateX = 0;
   let currentRotateY = 0;
